@@ -1,0 +1,55 @@
+[
+    {
+      "theaterName": "AGS Cinemas",
+      "location": "Navalur",
+      "show_timings": ["03:00 PM", "10:20 PM"]
+    },
+    {
+        "theaterName": "PVR",
+        "location": "Nungambakkam",
+        "show_timings": ["01:00 PM", "4:00 PM","07:00 PM"]
+    },
+    {
+        "theaterName": "Rohini theater",
+        "location": "Koyambedu",
+        "show_timings": ["09:00 AM", "01:00 PM","04:00 PM","08:00 PM"]
+    },
+    {   
+        "theaterName": "Kasi Cinemas",
+        "location": "Vadapazhani",
+        "show_timings": ["07:00 AM", "10:00 AM","04:00 PM"]
+    },
+    {
+        "theaterName": "Bessy theater",
+        "location": "Besant Nagar",
+        "show_timings": ["10:00 AM", "01:00 AM","04:00 PM","07:00 PM"]
+    },
+
+    {
+        "theaterName": "Shanthi Theater",
+        "location": "Villivakkam",
+        "show_timings": ["10:00 PM"]
+    },
+
+    {
+        "theaterName": "RedFox Cimemas",
+        "location": "Arumbakkam",
+        "show_timings": ["02:00 PM","10:00 PM"]
+    },
+
+    {
+        "theaterName": "Thiayagaraja Cimemas",
+        "location": "Adyar",
+        "show_timings": ["02:00 PM","10:00 PM","07:00 PM"]
+    },
+
+    {
+        "theaterName": "Abhirami Theater",
+        "location": "St.Mount Road",
+        "show_timings": ["04:00 PM","08:00 PM","10:45 PM"]
+    }
+]
+
+
+
+
